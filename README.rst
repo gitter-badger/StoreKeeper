@@ -71,3 +71,8 @@ You can read more details in documentation. It's available in online and offline
 .. |CoverageClient| image:: https://codeclimate.com/github/andras-tim/StoreKeeper/badges/coverage.svg
    :target: https://codeclimate.com/github/andras-tim/StoreKeeper/coverage
    :alt: Client Test Coverage
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/andras-tim/StoreKeeper
+   :target: https://gitter.im/andras-tim/StoreKeeper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
